@@ -19,12 +19,12 @@ Alat dan Bahan
 
 ## Cara Wiring Alarm Pendeteksi Gas
 Berikut adalah langkah-langkah wiring alarm pendeteksi gas:
-1.	Siapkan alat dan bahan yang diperlukan, yaitu:
-  •	Arduino Uno
-  •	Kabel USB
-  •	Kabel jumper
-  •	Buzzer
-  •	LED
+1.	Siapkan alat dan bahan yang diperlukan, yaitu:<br>
+  •	Arduino Uno<br>
+  •	Kabel USB<br>
+  •	Kabel jumper<br>
+  •	Buzzer<br>
+  •	LED<br>
   •	Breadboard
 2.	Hubungkan Arduino Uno ke komputer menggunakan kabel USB.
 3.	Pasang sensor MQ2 pada breadboard.
